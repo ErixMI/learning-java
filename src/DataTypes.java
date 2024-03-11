@@ -52,5 +52,6 @@ public class DataTypes {
         System.out.println(isSummer);
         System.out.println(isRaining);
         System.out.println(hasPassedEcercise);
+        //done
     }
 }
